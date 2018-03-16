@@ -20,13 +20,7 @@ before_install:
 - sfdx plugins --core
 - sfdx force:auth:jwt:grant --clientid ${CONSUMERKEY} --username ${USERNAME} --jwtkeyfile assets/server.key --setdefaultdevhubusername -a HubOrg
 script:
-#test
 - sfdx force:org:create -v HubOrg -s -f config/project-scratch-def.json -a ciorg
 - sfdx force:source:push -u ciorg
 - sfdx force:apex:test:run -u ciorg -c -r human -w 10
 - sfdx force:org:delete -u ciorg -p
-- mkdir mdapioutput
-#deploy
-- sfdx force:source:convert -d mdapioutput/
-- sfdx force:mdapi:deploy -d mdapioutput/ -u HubOrg -w 100
-- rm -rf mdapioutput

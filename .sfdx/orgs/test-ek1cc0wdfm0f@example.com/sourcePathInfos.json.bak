@@ -1,0 +1,167 @@
+[
+    [
+        "D:\\task\\Lightning\\SFDX\\test\\devops\\HelloWorld\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "D:\\task\\Lightning\\SFDX\\test\\devops\\HelloWorld\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521166689125,
+            "changeTime": 1521166689125,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "D:\\task\\Lightning\\SFDX\\test\\devops\\HelloWorld\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "D:\\task\\Lightning\\SFDX\\test\\devops\\HelloWorld\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521166689125,
+            "changeTime": 1521166689125,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\task\\Lightning\\SFDX\\test\\devops\\HelloWorld\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "D:\\task\\Lightning\\SFDX\\test\\devops\\HelloWorld\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521166689125,
+            "changeTime": 1521166689125,
+            "contentHash": "1adaa84dc07a16d34ede5b9a70713ff832a0f853",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\task\\Lightning\\SFDX\\test\\devops\\HelloWorld\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "D:\\task\\Lightning\\SFDX\\test\\devops\\HelloWorld\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521166689127,
+            "changeTime": 1521166689127,
+            "contentHash": "b916a4a86623a0e78a5651e81c3b83f636f4c61a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\task\\Lightning\\SFDX\\test\\devops\\HelloWorld\\force-app\\main\\default\\classes\\HelloWorld.cls",
+        {
+            "state": "n",
+            "sourcePath": "D:\\task\\Lightning\\SFDX\\test\\devops\\HelloWorld\\force-app\\main\\default\\classes\\HelloWorld.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 194,
+            "modifiedTime": 1521166689126,
+            "changeTime": 1521166689126,
+            "contentHash": "0be5578b0560f611ff1ff8c90594ff0e6e377694",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\task\\Lightning\\SFDX\\test\\devops\\HelloWorld\\force-app\\main\\default\\classes\\HelloWorld.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\task\\Lightning\\SFDX\\test\\devops\\HelloWorld\\force-app\\main\\default\\classes\\HelloWorld.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1521166689126,
+            "changeTime": 1521166689126,
+            "contentHash": "f6f319f126dfc21d5abbffe6c65211457fdfa270",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\task\\Lightning\\SFDX\\test\\devops\\HelloWorld\\force-app\\main\\default\\classes\\myclass.cls",
+        {
+            "state": "n",
+            "sourcePath": "D:\\task\\Lightning\\SFDX\\test\\devops\\HelloWorld\\force-app\\main\\default\\classes\\myclass.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 124,
+            "modifiedTime": 1521166689127,
+            "changeTime": 1521166689127,
+            "contentHash": "1820a839358521694274d5c48d82c9f9947fd906",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\task\\Lightning\\SFDX\\test\\devops\\HelloWorld\\force-app\\main\\default\\classes\\myclass.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\task\\Lightning\\SFDX\\test\\devops\\HelloWorld\\force-app\\main\\default\\classes\\myclass.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1521166689127,
+            "changeTime": 1521166689127,
+            "contentHash": "c13f7d99a71a3f8f0a40f33425ceb5e91dfc6aa5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\task\\Lightning\\SFDX\\test\\devops\\HelloWorld\\force-app\\main\\default\\classes\\mytest.cls",
+        {
+            "state": "n",
+            "sourcePath": "D:\\task\\Lightning\\SFDX\\test\\devops\\HelloWorld\\force-app\\main\\default\\classes\\mytest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 188,
+            "modifiedTime": 1521166689127,
+            "changeTime": 1521166689127,
+            "contentHash": "7f28f6d2bde80fd57a389f5b77e38d8edc15acc8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\task\\Lightning\\SFDX\\test\\devops\\HelloWorld\\force-app\\main\\default\\classes\\mytest.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\task\\Lightning\\SFDX\\test\\devops\\HelloWorld\\force-app\\main\\default\\classes\\mytest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1521166689128,
+            "changeTime": 1521166689128,
+            "contentHash": "c13f7d99a71a3f8f0a40f33425ceb5e91dfc6aa5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\task\\Lightning\\SFDX\\test\\devops\\HelloWorld",
+        {
+            "state": "n",
+            "sourcePath": "D:\\task\\Lightning\\SFDX\\test\\devops\\HelloWorld",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521166874145,
+            "changeTime": 1521166874145,
+            "contentHash": "e91d5216f640ccd36d20f2e92e15457f93ccddff",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

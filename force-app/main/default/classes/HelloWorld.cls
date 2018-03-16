@@ -3,6 +3,6 @@ public class HelloWorld {
         System.debug('Hello World!');
     }
     public void sayHelloToBaron() {
-        System.debug('Hello，Baron Test!');
+        System.debug('Hello，Baron!');
     }
 }
